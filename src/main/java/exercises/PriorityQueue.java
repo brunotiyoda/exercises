@@ -1,4 +1,4 @@
-package hacker.rank;
+package exercises;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package hacker.rank;
+package exercises;
 
 import java.security.Permission;
 import java.util.Scanner;

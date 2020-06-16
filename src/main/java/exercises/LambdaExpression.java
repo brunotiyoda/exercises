@@ -1,11 +1,11 @@
-package hacker.rank;
+package exercises;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-import static hacker.rank.LambdaExpression.MyMath.checker;
+import static exercises.LambdaExpression.MyMath.checker;
 
 public class LambdaExpression {
 

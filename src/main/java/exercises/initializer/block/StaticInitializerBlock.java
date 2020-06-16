@@ -1,4 +1,4 @@
-package hacker.rank.initializer.block;
+package exercises.initializer.block;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package hacker.rank.end.of.line;
+package exercises.end.of.line;
 
 import java.util.Scanner;
 
